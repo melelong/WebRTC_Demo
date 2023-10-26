@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!--
  * 2023-10-26 15:12:28
  * @Github: https://github.com/melelong
@@ -11,6 +10,3 @@
 # WebRTC_Demo
 
 > WebRTC nuxt nest 练习
-=======
-# WebRTC_Demo
->>>>>>> e39794062345c31420bcdd7a5d0b2839c3965f82
